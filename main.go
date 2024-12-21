@@ -165,6 +165,3 @@ func main() {
 func floatToString(f float64) string {
 	return strconv.FormatFloat(f, 'g', -1, 64)
 }
-
-//TIP See GoLand help at <a href="https://www.jetbrains.com/help/go/">jetbrains.com/help/go/</a>.
-// Also, you can try interactive lessons for GoLand by selecting 'Help | Learn IDE Features' from the main menu.
