@@ -1,2 +1,0 @@
-# CalculationService
-CalculationService Golang Project
